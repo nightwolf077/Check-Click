@@ -1,0 +1,126 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+    font-family: "ubuntu";
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  
+  body {
+    overflow-x: hidden;
+  }
+  
+  /* ::selection {
+    color: #00b4cc;
+    background-color: #220070e7;
+  } */
+  /* NAV BAR */
+  
+  .navbar {
+    background-color: var(--main-color);
+  }
+  
+  .navbar-toggler {
+    background-color: white ;
+  }
+  
+  .navbar-brand img {
+    width: 50%;
+    height: auto;
+  }
+  
+  .dropdown .form-control {
+    width: 30rem ;
+  }
+  
+  .navbar-nav .nav-link {
+    font-size: 1rem; /* Adjust the font size as needed */
+    color: white ; /* Set font color to white */
+  }
+  
+  #homeLink {
+    font-weight: bold;
+  }
+  
+  .register a {
+    color: white;
+  }
+  
+  .register a:hover {
+    color: cyan;
+    transition: 0.5s;
+  }
+  
+  header .logo {
+    width: 6rem;
+    height: 4rem;
+    cursor: pointer;
+  }
+  /* NAV BAR END */
+  /*search bar section...*/
+  @import url(https://fonts.googleapis.com/css?family=Open+Sans);
+  
+  /* suggest */
+  .suggestText {
+    margin: auto;
+    display: block;
+    text-align: center;
+    padding: 1rem;
+    font-weight: 700;
+    font-size: 2.5rem;
+    background: linear-gradient(
+      to left,
+      var(--main-color),
+      var(--mid-color),
+      var(--blue-color)
+    );
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    background-clip: text;
+    color: transparent;
+  }
+  
+  .checked {
+    color: var(--blue-color) ;
+  }
+  
+  .button {
+    border: none;
+    padding: 0.5rem;
+    border-radius: 5px;
+    background-color: var(--main-color);
+    color: #fff ;
+    cursor: pointer;
+  
+    text-decoration: none ;
+  }
+  
+  .button:hover {
+    color: white;
+    text-decoration: none;
+    background-color: #140044;
+  }
+  
+  .title {
+    color: white;
+  }
+  
+  .card-link {
+    text-decoration: none;
+    color: inherit;
+  }
+  .card-link:hover {
+    color: inherit;
+  }
+  
+  .featured-icon {
+    color: var(--blue-color) ;
+  }
+  
+  .custom-dropdown-item:hover {
+    background-color: var(--secondary-color) ;
+    color: #fff ;
+  }
+  

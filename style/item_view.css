@@ -1,0 +1,77 @@
+#commentsView {
+  overflow-y: auto;
+  height: 28rem !important;
+  border-radius: 1rem;
+  padding: 2rem;
+  box-shadow: 2px 2px 4px 1px rgba(0, 0, 0, 0.4);
+}
+
+.comment-container {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 12px;
+  margin-bottom: 20px;
+  background-color: #f9f9f9;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.comment-header {
+  display: flex;
+  align-items: center;
+  margin-bottom: 8px;
+}
+
+.profile-pic {
+  margin-right: 8px;
+  font-size: 24px;
+}
+
+.customer-name {
+  font-weight: 600;
+  font-size: larger;
+  color: #333;
+}
+
+.item-rate {
+  margin-left: auto;
+  display: flex;
+  align-items: center;
+  color: var(--blue-color);
+}
+
+.comment-text {
+  line-height: 1.4;
+  color: #555;
+}
+
+.similar-items {
+  overflow-y: auto;
+  height: 28rem !important;
+  border-radius: 1rem;
+  box-shadow: 2px 2px 4px 1px rgba(0, 0, 0, 0.4);
+}
+
+.buy-rate {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.rating-container {
+  position: relative;
+  display: inline-block;
+  cursor: pointer;
+}
+
+.rating-info {
+  min-width: 13rem;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  display: none;
+  background-color: #fff;
+  padding: 10px;
+  border: 1px solid #ccc;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  z-index: 1;
+}

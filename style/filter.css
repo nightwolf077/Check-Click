@@ -1,0 +1,40 @@
+.filter-bar {
+  background-color: var(--main-color);
+  border-radius: 10px;
+  padding: 1rem;
+}
+
+.current-page {
+  font-size: 2rem;
+  font-weight: bold;
+  border-radius: 300px;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  color: white; /* Adjust the color to your preference */
+  background-color: var(--main-color);
+  margin-top: 1.5rem;
+}
+
+.page-link {
+  margin-top: 2rem;
+  font-size: 1.2rem !important;
+  border: none !important;
+  color: var(--secondary-color) !important;
+}
+
+.filter-button {
+  font-size: 1.5rem;
+  background-color: var(--secondary-color);
+  color: white;
+  border: none;
+  padding: 0.5rem;
+  border-radius: 5px;
+}
+
+.filter-button:hover {
+  background-color: var(--secondary-color-hover);
+}
+
+.filter-label {
+  color: white;
+}

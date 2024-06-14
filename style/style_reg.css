@@ -1,0 +1,17 @@
+.reg-body {
+  background-color: var(--main-color);
+}
+
+.input-block {
+  background-color: white;
+  padding: 2rem;
+  border-radius: 50px;
+}
+
+#signup_box {
+  display: none;
+}
+
+.link {
+  cursor: pointer;
+}
