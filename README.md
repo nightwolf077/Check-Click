@@ -1,5 +1,5 @@
 # Check-Click
-  Greetings , this is my graduation project that i worked on with my friends using HTML , CSS , JavaScript , Bootstrap and PHP
+Greetings , this is my graduation project that i worked on with my friends using HTML , CSS , JavaScript , Bootstrap and PHP
 and contain certain tabs are : Homw , Shop , Blog , About , Contact , User section , Search bar , cart
 also it have a regester page 
 lets talk about it
@@ -17,13 +17,16 @@ and we continue showing a few items
 
 ![home 3](https://github.com/nightwolf077/Check-Click/assets/126972596/70c9d592-565d-46f0-99b5-53aa62310b7d)
 
+
 then we are in shop tab that contains all items
 
 ![shop](https://github.com/nightwolf077/Check-Click/assets/126972596/7591a9ba-d3ee-46df-813f-b3b3abd8e5fa)
 
+
 and we can open any item to rate it or add it to cart
 
 ![item](https://github.com/nightwolf077/Check-Click/assets/126972596/d899cfca-f4b0-49c5-9df0-dedb49d5592d)
+
 
 then in blog tab we have some News, articles and discussions
 
@@ -31,13 +34,18 @@ then in blog tab we have some News, articles and discussions
 
 ![blog 2](https://github.com/nightwolf077/Check-Click/assets/126972596/62e4dca1-8635-49b8-acef-a8d765840fe0)
 
+
 then in about tab , it contains the cases that we care about , spicialy the war on gaza
 
 ![about](https://github.com/nightwolf077/Check-Click/assets/126972596/be355d1c-b25e-485e-8c6c-92f2996e01d0)
 
 ![about 2](https://github.com/nightwolf077/Check-Click/assets/126972596/78dade2a-11b6-43bd-92fa-8a1789128a9b)
 
+
 and we also have a future work to make application and connect it with our website
+
+![app soon](https://github.com/nightwolf077/Check-Click/assets/126972596/f27c2a38-e30a-481a-a94d-97003afe8e63)
+
 
 then we have contact tab , that have the creators info
 
@@ -46,6 +54,7 @@ then we have contact tab , that have the creators info
 ![contact 2](https://github.com/nightwolf077/Check-Click/assets/126972596/92d7607c-ce05-4c5a-b8ba-76ef9a0d5f02)
 
 ![contact 3](https://github.com/nightwolf077/Check-Click/assets/126972596/5d4fd76d-4398-4ce7-b246-fd0ac53a413b)
+
 
 there is a tab for user , Whether a guest or a user
 
@@ -60,11 +69,15 @@ The final tab is called cart, where the user can modify or remove the item they 
 
 ![cart 2](https://github.com/nightwolf077/Check-Click/assets/126972596/02dfd90a-09c6-4d03-ae46-61d594776116)
 
+
 additionally, there is a search box where you may look up objects and it will arrange them alphabetically
 
 ![search](https://github.com/nightwolf077/Check-Click/assets/126972596/1dc27a42-82be-480a-863d-4087eb1bc6e4)
 
+
+
 and now we will talk about last thing , witch is the registration page
+
 First, if you already have an account, you can sign in
 
 ![sign in](https://github.com/nightwolf077/Check-Click/assets/126972596/8ce320f8-0d13-43e5-9d63-79d9c68c96ad)
@@ -81,6 +94,8 @@ and when you enter your email it will send a link to your email
 (Unfortunately, this process does not work now because the source code on GitHub is no longer exists)
 
 ![email](https://github.com/nightwolf077/Check-Click/assets/126972596/ed7e3de6-ff2e-4016-9d5f-f07e96c91c1a)
+
+
 
 conclusion:
 
