@@ -1,6 +1,6 @@
 # Check-Click
 Greetings , this is my graduation project that i worked on with my friends using HTML , CSS , JavaScript , Bootstrap and PHP
-and contain certain tabs are : Homw , Shop , Blog , About , Contact , User section , Search bar , cart
+and contain certain tabs are : Home , Shop , Blog , About , Contact , User section , Search bar , cart
 also it have a regester page 
 lets talk about it
 first of all we open the index.php that will be the homw tab that We considered it as interface for the website
