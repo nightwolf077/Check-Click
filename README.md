@@ -1,17 +1,17 @@
 # Check & Click
-Greetings , this is my graduation project that i worked on with my friends using HTML , CSS , JavaScript , Bootstrap and PHP
-and contain certain tabs are : Home , Shop , Blog , About , Contact , User section , Search bar , cart
-also it have a regester page 
-lets talk about it
-first of all we open the index.php that will be the homw tab that We considered it as interface for the website
+### Greetings , this is my graduation project that i worked on with my friends using HTML , CSS , JavaScript , Bootstrap and PHP
+### and contain certain tabs are : Home , Shop , Blog , About , Contact , User section , Search bar , cart
+### also it have a regester page 
+### lets talk about it
+### first of all we open the index.php that will be the homw tab that We considered it as interface for the website
 
 ![home](https://github.com/nightwolf077/Check-Click/assets/126972596/a1fcdd3d-6e60-4a34-aa5d-496ac31ecfb4)
 
-and we have a recommendation system that work on similarity and prediction 
+### and we have a recommendation system that work on similarity and prediction 
 
 ![rec](https://github.com/nightwolf077/Check-Click/assets/126972596/994adb74-e881-42a1-84b6-cb05740034f2)
 
-and we continue showing a few items
+### and we continue showing a few items
 
 ![home 2](https://github.com/nightwolf077/Check-Click/assets/126972596/adac2bc9-ae50-416c-a501-fe4b583bd71d)
 
